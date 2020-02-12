@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4e60e54-eb81-401b-9a45-f2a83c7f81e6" name="Default Changelist" comment="" />
+    <list default="true" id="e4e60e54-eb81-401b-9a45-f2a83c7f81e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WebTest1/WebExercises2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WebTest1/WebExercises1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest1/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WebTest1/WebExercises1.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,9 +23,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -26,7 +39,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1XDL3CAptW3M007ntLGRR7LxVg5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/BrowserDrivers" />
   </component>
   <component name="RecentsManager">
@@ -46,24 +61,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WebExercises1.userShouldBeResgisteredSuccessfully">
-    <configuration name="Test1.useshouldbeableToRegisterSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="WebExercise1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="WebTest1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="WebTest1" />
-      <option name="MAIN_CLASS_NAME" value="WebTest1.Test1" />
-      <option name="METHOD_NAME" value="useshouldbeableToRegisterSuccessfully" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WebExercises1.userShouldAbleToRegisteredSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.WebExercises1">
+    <configuration name="WebExercises1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="WebExercise1" />
       <extension name="coverage">
         <pattern>
@@ -73,7 +72,54 @@
       </extension>
       <option name="PACKAGE_NAME" value="WebTest1" />
       <option name="MAIN_CLASS_NAME" value="WebTest1.WebExercises1" />
-      <option name="METHOD_NAME" value="userShouldAbleToRegisteredSuccessfully" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebExercises1.beforeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebExercise1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest1" />
+      <option name="MAIN_CLASS_NAME" value="WebTest1.WebExercises1" />
+      <option name="METHOD_NAME" value="beforeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebExercises1.userShouldAbleToRegisterSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebExercise1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest1" />
+      <option name="MAIN_CLASS_NAME" value="WebTest1.WebExercises1" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebExercises1.userShouldAbleToRegisteredSuccesfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WebExercise1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebTest1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebTest1" />
+      <option name="MAIN_CLASS_NAME" value="WebTest1.WebExercises1" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisteredSuccesfully" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,45 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebExercises1.userShouldBeResgisteredSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="WebExercise1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="WebTest1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="WebTest1" />
-      <option name="MAIN_CLASS_NAME" value="WebTest1.WebExercises1" />
-      <option name="METHOD_NAME" value="userShouldBeResgisteredSuccessfully" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WebExercises1.useshouldbeableToRegisterSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="WebExercise1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="WebTest1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="WebTest1" />
-      <option name="MAIN_CLASS_NAME" value="WebTest1.WebExercises1" />
-      <option name="METHOD_NAME" value="useshouldbeableToRegisterSuccessfully" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WebExercises1.userShouldBeResgisteredSuccessfully" />
+        <item itemvalue="JUnit.WebExercises1" />
+        <item itemvalue="JUnit.WebExercises1.beforeTest" />
+        <item itemvalue="JUnit.WebExercises1.userShouldAbleToRegisterSuccessfully" />
+        <item itemvalue="JUnit.WebExercises1.userShouldAbleToRegisteredSuccesfully" />
         <item itemvalue="JUnit.WebExercises1.userShouldBeRegisteredSuccessfully" />
-        <item itemvalue="JUnit.WebExercises1.useshouldbeableToRegisterSuccessfully" />
-        <item itemvalue="JUnit.Test1.useshouldbeableToRegisterSuccessfully" />
-        <item itemvalue="JUnit.WebExercises1.userShouldAbleToRegisteredSuccessfully" />
       </list>
     </recent_temporary>
   </component>
@@ -149,5 +163,18 @@
       <updated>1580575517147</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
